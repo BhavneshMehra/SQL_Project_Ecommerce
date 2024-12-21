@@ -36,5 +36,5 @@ A series of SQL queries are included to analyze the data, such as:
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/customer-transaction-analysis.git
+   git clone https://github.com/BhavneshMehra/customer-transaction-analysis.git
    cd customer-transaction-analysis
